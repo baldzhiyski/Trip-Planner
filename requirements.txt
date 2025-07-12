@@ -1,5 +1,0 @@
-crewai
-unstructured
-pyowm
-tools
-python-dotenv
